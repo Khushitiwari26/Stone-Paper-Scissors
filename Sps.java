@@ -36,9 +36,3 @@ public class Sps
         obj.close();
     }
 }
-
-
-
-
-
-
