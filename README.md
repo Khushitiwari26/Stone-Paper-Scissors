@@ -1,4 +1,4 @@
-# ✂️ Rock-Paper-Scissors (Stone-Paper-Scissors.java)
+# ✂️ Rock-Paper-Scissors (Sps.java)
 
 - This is a simple **Rock-Paper-Scissors** game implemented in Java.  
 - The user plays against the computer, and the winner is decided based on the classic rules of the game.
@@ -27,6 +27,6 @@
 
 ## 🛠 How to Run
 
-1. Save the file as `Stone-Paper-Scissors.java`
+1. Save the file as `Sps.java`
 2. Compile the code:
-   javac Stone-Paper-Scissors.java
+   javac Sps.java
