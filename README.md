@@ -1,7 +1,7 @@
-# 🪨📄✂️ Rock-Paper-Scissors (Sps.java)
+# ✂️ Rock-Paper-Scissors (Stone-Paper-Scissors.java)
 
-This is a simple **Rock-Paper-Scissors** game implemented in Java.  
-The user plays against the computer, and the winner is decided based on the classic rules of the game.
+- This is a simple **Rock-Paper-Scissors** game implemented in Java.  
+- The user plays against the computer, and the winner is decided based on the classic rules of the game.
 
 ---
 
